@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-	Uri="https://flagtip.com/FlagTip.MSIX.appinstaller"
-	Version="1.0.17.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Uri="https://gobrisebane.github.io/FlagTip.MSIX.appinstaller"
+	Version="1.0.18.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="FlagTip.FlagTip"
-		Version="1.0.17.0"
+		Version="1.0.18.0"
 		Publisher="CN=16759B5B-6B9A-4593-9F7A-FD503D048B54"
-		Uri="https://flagtip.com/FlagTip.MSIX_1.0.17.0_Test/FlagTip.MSIX_1.0.17.0_AnyCPU.msixbundle" />
+		Uri="https://gobrisebane.github.io/FlagTip.MSIX_1.0.18.0_Test/FlagTip.MSIX_1.0.18.0_AnyCPU.msixbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />
